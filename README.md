@@ -1,2 +1,20 @@
-# Encryptix_-1
-Predicts Titanic passenger survival using machine learning models based on features like age, gender, and ticket class. Includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation. 
+Project 1: Titanic Survival Prediction
+Overview
+Predicting survival on the Titanic is a classic beginner project in data science. The goal is to build a model that predicts whether a passenger survived or not based on features such as age, gender, ticket class, fare, cabin, etc.
+
+Dataset
+The dataset includes information on individual Titanic passengers:
+
+Features: Age, Gender, Ticket Class, Fare, Cabin, etc.
+Target: Survived (1) or Not Survived (0)
+Approach
+Data Preprocessing: Handle missing values, encode categorical features.
+
+Exploratory Data Analysis (EDA): Understand relationships between features and survival using visualizations.
+
+Model Selection: Implement machine learning algorithms (e.g., Logistic Regression, Random Forest) to predict survival.
+
+Evaluation: Assess model performance using metrics like accuracy, precision, recall, and ROC-AUC.
+
+Results
+The final model achieves 76% accuracy on the test dataset, demonstrating its effectiveness in predicting Titanic survival.
