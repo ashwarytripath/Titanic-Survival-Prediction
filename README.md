@@ -1,4 +1,4 @@
-## Project 1: Titanic Survival Prediction
+##  Titanic Survival Prediction
 
 ### Overview
 Predicting survival on the Titanic is a classic beginner project in data science. The goal is to build a model that predicts whether a passenger survived or not based on features such as age, gender, ticket class, fare, cabin, etc.
